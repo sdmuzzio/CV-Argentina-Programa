@@ -9,3 +9,6 @@ La plantilla utilizada es: https://startbootstrap.com/theme/resume página muy r
 La propia plantilla cuenta con la implementación tanto de Font Awesome y Google fonts.
 
 La imágen de perfil para el CV fue descargadad de https://randomuser.me/photos
+
+
+El enlace a la página creada con Github Pages es: https://sdmuzzio.github.io/CV-Argentina-Programa/
